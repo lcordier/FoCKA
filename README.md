@@ -1,5 +1,4 @@
-# FoCKA
-Freedom of Critical Knowledge Act
+# Freedom of Critical Knowledge Act (FoCKA)
 
 > In the words of Charlie Munger, “take a simple idea and take it seriously.”
 
