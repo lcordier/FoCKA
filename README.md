@@ -2,7 +2,7 @@
 
 > In the words of Charlie Munger, “take a simple idea and take it seriously.”
 
-Yes, I am doing prompt-engineering on you here... ;)
+Yes, I am doing prompt-engineering on you here... ;) 
 
 ## The Idea
 What if some books, deemed to be valuable to the future of humanity, were expropriated with fair/handsome compensation to the authors/publishers/copyright holders and made freely available under the [Creative Commons Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/) or [MIT License](https://en.wikipedia.org/wiki/MIT_License) for all of humanity.
@@ -29,14 +29,15 @@ https://lectupedia.com/en/reading-and-gdp
 ## Quality over Quantity
 
 ![Books read by country](./media/books_read_by_country.png)
-https://lectupedia.com/en/number-of-books-read-in-each-country/
+
+[https://lectupedia.com/en/number-of-books-read-in-each-country/](https://lectupedia.com/en/number-of-books-read-in-each-country/)
 
 We don't need to free that many books each year, 5 to 10 high quality books should be sufficient. We are aiming to apply an 80/20 rule here. We should optimize to get the most utility out of the least number of books (titles).
 
 Think of it this way: All the time you spend reading something bad comes at the expense of reading something good. **Reading a great book twice is better than reading ten average ones.**
 
-https://fs.blog/reading/
-https://fs.blog/choose-your-next-book/
+[https://fs.blog/reading/](https://fs.blog/reading/)
+[https://fs.blog/choose-your-next-book/](https://fs.blog/choose-your-next-book/)
 
 > In my whole life, I have known no wise people (over a broad subject matter area) who didn’t read all the time – none, zero.
 > 
@@ -56,9 +57,10 @@ Kids should expand their imagination, and thus consume copious amounts of scienc
 ## Available Time
 
 ![Time use by country](./media/time_use_by_country.webp)
-https://ourworldindata.org/time-use-living-conditions
 
-https://howlongtoread.com/
+[https://ourworldindata.org/time-use-living-conditions](https://ourworldindata.org/time-use-living-conditions)
+
+[https://howlongtoread.com/](https://howlongtoread.com/)
 Reading and listening would come out of education and other leisure time. The average person has probably 15 minutes to an hour available per day for reading.
 
 Learn from the Europeans, work/toil less and leisure more...
@@ -70,8 +72,9 @@ Learn from the Europeans, work/toil less and leisure more...
 ## World Reading Habits
 
 ![Reading habits](./media/world_reading_habits_2021.png)
-https://geediting.com/world-reading-habits-in-2021-infographic/
-https://www.statista.com/search/?q=reading
+
+[https://geediting.com/world-reading-habits-in-2021-infographic/](https://geediting.com/world-reading-habits-in-2021-infographic/)
+[https://www.statista.com/search/?q=reading](https://www.statista.com/search/?q=reading)
 
 ## Government Funding
 This article is titled, Freedom of Critical Knowledge **Act**. However, I do not believe a special act is really needed. This could easily be done through normal/local budget allocation.
@@ -82,15 +85,7 @@ The next year it could be another country's turn.
 
 If governments standardize on a single (highest quality) school curriculum and limit updates to it (say a 5 year cycle) all the required textbooks could be freed. These books can then be printed by more competitive printers (university printers for example).
 
-https://www.statista.com/statistics/741558/us-public-school-textbook-expenditure/
-
-See [Public Expenditure Analysis for the Basic Education Sector in South Africa](https://www.education.gov.za/Portals/0/Documents/Reports/Research%20Repository/Funding%201/Efficiency%20and%20effectiveness%20report%20textbooks.pdf)
-page 28, Textbook costs in South Africa - page 30, Access to textbooks in developing countries.
-
-
-> Only the DA-run Western Cape has dedicated budget towards improving literacy and reading comprehension as part of its R1.2 billion “Back on Track” programme. While putting aside R111 million for reading particularly in isiXhosa and Afrikaans schools. And the results are speaking for themselves. Western Cape learners achieved the highest scores in the country – an average of 363.
-> 
-> https://www.westerncape.gov.za/news/education-%E2%80%93-budget-get-job-done
+[https://www.statista.com/statistics/741558/us-public-school-textbook-expenditure/](https://www.statista.com/statistics/741558/us-public-school-textbook-expenditure/)
 
 > Do more and more with less and less until eventually you can do everything with nothing. -- R. Buckminster Fuller (Nine Chains to the Moon, 1938)
 
@@ -100,7 +95,7 @@ To implement this idea we don't really need a new act. The "act" was just to mak
 Around the world there exists a few acts that deal with the control of ideas/information and the expropriation of property.
 
 ### The Invention Secrecy Act of 1951
-https://en.wikipedia.org/wiki/Invention_Secrecy_Act
+[https://en.wikipedia.org/wiki/Invention_Secrecy_Act](https://en.wikipedia.org/wiki/Invention_Secrecy_Act)
 
 The Invention Secrecy Act of 1951 is a body of United States federal law designed to prevent disclosure of new inventions and technologies that, in the opinion of selected federal agencies, present a possible threat to the national security of the United States. 
 
@@ -111,12 +106,12 @@ By the end of 1991, the number of patent secrecy orders stood at 6,193. Many suc
 If certain ideas pose a thread to national security and thus be made secret. It stands to reason that other ideas/information/books could have a critical/positive impact on humanity and so must be made free/public domain to maximize their dissemination.
 
 ### Freedom of Information Act
-https://www.foia.gov/
+[https://www.foia.gov/](https://www.foia.gov/)
 
 The basic function of the Freedom of Information Act is to ensure informed citizens, vital to the functioning of a democratic society.
 
 ## BBC - Billionaires Book Club
-==Elon, you wanted to know what the BBC stand for?==
+<mark>Elon, you wanted to know what the BBC stand for?</mark>
 
 Some of the most influential people on earth read books that alter their perspective on life/humanity. They read many many books but filter them down to a select few that they then recommend to others. What if they took it one step further, instead of only recommending these books they also applied a bit of philanthropy, buy the books rights, and made it public domain as a gift to humanity.
 
@@ -132,7 +127,7 @@ This could even become the [Ice Bucket Challenge](https://en.wikipedia.org/wiki/
 ![Oprah... Everybody gets a book](./media/oprah_everybody_gets_a_book.jpg)
 
 ## Cost to Buy Out Publishing Rights
-https://wordsrated.com/book-sales-statistics/
+[https://wordsrated.com/book-sales-statistics/](https://wordsrated.com/book-sales-statistics/)
 
 Authors/publishers of great books put in a huge effort to produce high quality works. They need to be handsomely compensated but the free market does not always guarantee that.
 
@@ -147,21 +142,17 @@ What if you have a book with a billion+ readers? Isn't that bragging rights and 
 Even thou a book might be in the public domain the author/publisher could still continue to sell it.
 
 > Becoming a New York Times best-selling author doesn’t bring you lasting fulfillment, endless riches, or a lifetime of good health. It doesn’t actually sell that many books. But it is a flex, a status symbol. Land a spot on The List once, and it’s in your bio forever. It’s what journalist David Brooks calls a résumé virtue: an accolade that might bring fleeting excitement, but not enduring contentment.
-> 
-> https://every.to/p/on-the-value-of-not-reaching-your-goals
+
+[https://every.to/p/on-the-value-of-not-reaching-your-goals](https://every.to/p/on-the-value-of-not-reaching-your-goals)
 
 ### What Are Typical Rates for Book Royalties?
-
 Royalty rates vary slightly, but on average, you can expect the following from traditional publishers:
 
-    Hardcover sales: 15%
-    Trade paperback sales: 7.5%
-    Mass-market paperback sales: 5%
-    eBook sales: 25%
-    Audiobook sales: 25%
-
- https://scribemedia.com/book-royalties/
- https://publishdrive.com/what-is-the-typical-royalty-rate-for-an-author.html
+* Hardcover sales: 15%
+* Trade paperback sales: 7.5%
+* Mass-market paperback sales: 5%
+* eBook sales: 25%
+* Audiobook sales: 25%
 
 ### Publisher's Costs
 * Editing, Type-Setting, Printing
@@ -175,8 +166,6 @@ Royalty rates vary slightly, but on average, you can expect the following from t
 * Admin
 
 ### Design a Formula for Fair Compensation
-http://harmful.cat-v.org/economics/intellectual_property/
-
 It should be open and transparent. The formula should include the following:
 
 * Current market demand.
