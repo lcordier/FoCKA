@@ -48,7 +48,7 @@ Think of it this way: All the time you spend reading something bad comes at the 
 We want to maximize on the overall utility/applicability of these books and not their marketed fashion/appeal. Inclusion on best-seller's lists is no guarantee of utility, applicability or quality just popularity. Curatorship should help here.
 
 ## Fiction vs. Non-fiction
-~~It is my opinion that books with general appeal and "great impact on humanity" are most likely works of non-fiction.~~ I would however concede that fiction such as [George Orwell's 1984](https://gutenberg.net.au/ebooks01/0100021.txt)  would also have global impact. Further, I feel we should not target religious texts, as those should already be in the public domain and managed by their religious organizations.
+It is my opinion that books with general appeal and "great impact on humanity" are most likely works of non-fiction. I would however concede that fiction such as [George Orwell's 1984](https://gutenberg.net.au/ebooks01/0100021.txt)  would also have global impact. Further, I feel we should not target religious texts, as those should already be in the public domain and managed by their religious organizations.
 
 > Imagination is more important than knowledge... -- Albert Einstein
 
