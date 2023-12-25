@@ -2,7 +2,7 @@
 
 > In the words of Charlie Munger, “take a simple idea and take it seriously.”
 
-Yes, I am doing prompt-engineering on you here... ;) 
+Yes, I am doing prompt-engineering on you here... ;)
 
 ## The Idea
 What if some books, deemed to be valuable to the future of humanity, were expropriated with fair/handsome compensation to the authors/publishers/copyright holders and made freely available under the [Creative Commons Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/) or [MIT License](https://en.wikipedia.org/wiki/MIT_License) for all of humanity.
@@ -193,7 +193,7 @@ This is my naive attempt at a first list. It should be a **curated list** but I 
 By mentioning and publishing this list, these books' sales will spike making negotiations to free them more difficult...  oops.
 
 
-<img src="./media/cover_stolen_focus.jpg" width="150"/>
+<img src="./media/cover_stolen_focus.jpg" width="150"/>  
 Johann Hari
 
 All over the world, our ability to pay attention is collapsing. In the US, college students now focus on one task for only 65 seconds, and office workers on average manage only three minutes. New York Times best-selling author Johann Hari went on an epic journey across the world to meet the leading scientists and experts investigating why this is happening to us – and discovered that everything we think we know on this subject is wrong.
@@ -203,7 +203,7 @@ We think our inability to focus is a personal failing – a flaw in each one of 
 Twitter/X/Meta/Facebook/Instagram/Snapchat/TikTok there must be many ex-leaders/employees that wants to make amends for their negative influence on kids? Pool your resources and free this book.
 
 
-<img src="./media/cover_solve_for_happy.jpg" width="150"/>
+<img src="./media/cover_solve_for_happy.jpg" width="150"/>  
 Mo Gawdat
 
 Solve for Happy is a startlingly original book about creating and maintaining happiness, written by a top Google executive with an engineer’s training and fondness for thoroughly analyzing a problem.
@@ -218,7 +218,7 @@ Google engineers unite! Don't be evil. Help Mo free his book and reach a billion
 On second thought, I think [John Oliver](https://www.youtube.com/@LastWeekTonight) is the man to set this one free...  You can do it!
 
 
-<img src="./media/cover_superintelligence.jpg" width="150"/>
+<img src="./media/cover_superintelligence.jpg" width="150"/>  
 Nick Bostrom
 Professor at Oxford University, where he is the founding Director of the Future of Humanity Institute. 
 
@@ -229,7 +229,7 @@ https://www.mostrecommendedbooks.com/elon-musk-books
 Elon, this one could be right up your alley. Gift it to South Africa...
 
 
-<img src="./media/cover_the_climate_book.jpg" width="150"/>
+<img src="./media/cover_the_climate_book.jpg" width="150"/>  
 Greta Thunberg
 
 > However, most of this pollution comes from just a few countries: China, for example, generates around 30% of all global emissions, while the United States is responsible for almost 14%.
@@ -238,7 +238,7 @@ Greta Thunberg
 I guess China and America could offset a few carbon credits by freeing Greta's book.
 
 
-<img src="./media/cover_how_the_world_really_works.jpg" width="150"/>
+<img src="./media/cover_how_the_world_really_works.jpg" width="150"/>  
 Vaclav Smil
 
 > "Another masterpiece from one of my favorite authors... If you want a brief but thorough education in numeric thinking about many of the fundamental forces that shape human life, this is the book to read. It's a tour de force" -- Bill Gates. 
@@ -246,7 +246,7 @@ Vaclav Smil
 I am looking at you Bill.  ;)
 
 
-<img src="./media/cover_the_intelligent_investor.jpg" width="150"/>
+<img src="./media/cover_the_intelligent_investor.jpg" width="150"/>  
 Benjamin Graham
 
 > I read the first edition of this book early in 1950, when I was nine-teen. I thought then that it was by far the best book about investing ever written. I still think it is. To invest successfully over a lifetime does not require a stratospheric IQ, unusual business insights, or inside information. What’s needed is a sound intellectual framework for making decisions and the ability to keep emotions from corroding that framework. This book precisely and clearly prescribes the proper framework... -- Warren Buffet.
