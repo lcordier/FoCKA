@@ -170,7 +170,7 @@ It should be open and transparent. The formula should include the following:
 * Current market demand.
 * [Long tail](https://www.investopedia.com/terms/l/long-tail.asp) in sales.
 * Total expected earnings/profits.
-* An author's **quality bonus** for the books quality.
+* An author's **quality bonus** for content of high quality.
 * Publisher's costs of producing the work(s) in question.
 * An handsome/fair return on investment.
 
