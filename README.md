@@ -37,7 +37,7 @@ We don't need to free that many books each year, 5 to 10 high quality books shou
 Think of it this way: All the time you spend reading something bad comes at the expense of reading something good. **Reading a great book twice is better than reading ten average ones.**
 
 [https://fs.blog/reading/](https://fs.blog/reading/)  
-[https://fs.blog/choose-your-next-book/](https://fs.blog/choose-your-next-book/)
+[https://fs.blog/choose-your-next-book/](https://fs.blog/choose-your-next-book/)  
 
 > In my whole life, I have known no wise people (over a broad subject matter area) who didn’t read all the time – none, zero.
 > 
@@ -59,8 +59,8 @@ Kids should expand their imagination, and thus consume copious amounts of scienc
 ![Time use by country](./media/time_use_by_country.webp)
 
 [https://ourworldindata.org/time-use-living-conditions](https://ourworldindata.org/time-use-living-conditions)
+[https://howlongtoread.com/](https://howlongtoread.com/)  
 
-[https://howlongtoread.com/](https://howlongtoread.com/)
 Reading and listening would come out of education and other leisure time. The average person has probably 15 minutes to an hour available per day for reading.
 
 Learn from the Europeans, work/toil less and leisure more...
