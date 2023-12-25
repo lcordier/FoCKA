@@ -111,8 +111,6 @@ If certain ideas pose a thread to national security and thus be made secret. It 
 The basic function of the Freedom of Information Act is to ensure informed citizens, vital to the functioning of a democratic society.
 
 ## BBC - Billionaires Book Club
-<mark>Elon, you wanted to know what the BBC stand for?</mark>
-
 Some of the most influential people on earth read books that alter their perspective on life/humanity. They read many many books but filter them down to a select few that they then recommend to others. What if they took it one step further, instead of only recommending these books they also applied a bit of philanthropy, buy the books rights, and made it public domain as a gift to humanity.
 
 > The word philanthropy comes from Ancient Greek φιλανθρωπία (philanthrōpía) 'love of humanity', from phil- 'love, fond of' and anthrōpos 'humankind, mankind'. In the second century AD.
