@@ -192,7 +192,7 @@ This is my naive attempt at a first list. It should be a **curated list** but I 
 
 By mentioning and publishing this list, these books' sales will spike making negotiations to free them more difficult...  oops.
 
-
+<br/><br/>
 <img src="./media/cover_stolen_focus.jpg" width="150"/>  
 Johann Hari
 
@@ -202,7 +202,7 @@ We think our inability to focus is a personal failing – a flaw in each one of 
 
 Twitter/X/Meta/Facebook/Instagram/Snapchat/TikTok there must be many ex-leaders/employees that wants to make amends for their negative influence on kids? Pool your resources and free this book.
 
-
+<br/><br/>
 <img src="./media/cover_solve_for_happy.jpg" width="150"/>  
 Mo Gawdat
 
@@ -217,7 +217,7 @@ Ten years later, that research saved him from despair when his college-aged son,
 Google engineers unite! Don't be evil. Help Mo free his book and reach a billion people.
 On second thought, I think [John Oliver](https://www.youtube.com/@LastWeekTonight) is the man to set this one free...  You can do it!
 
-
+<br/><br/>
 <img src="./media/cover_superintelligence.jpg" width="150"/>  
 Nick Bostrom
 Professor at Oxford University, where he is the founding Director of the Future of Humanity Institute. 
@@ -228,7 +228,7 @@ https://www.mostrecommendedbooks.com/elon-musk-books
 
 Elon, this one could be right up your alley. Gift it to South Africa...
 
-
+<br/><br/>
 <img src="./media/cover_the_climate_book.jpg" width="150"/>  
 Greta Thunberg
 
@@ -237,7 +237,7 @@ Greta Thunberg
 
 I guess China and America could offset a few carbon credits by freeing Greta's book.
 
-
+<br/><br/>
 <img src="./media/cover_how_the_world_really_works.jpg" width="150"/>  
 Vaclav Smil
 
@@ -245,7 +245,7 @@ Vaclav Smil
 
 I am looking at you Bill.  ;)
 
-
+<br/><br/>
 <img src="./media/cover_the_intelligent_investor.jpg" width="150"/>  
 Benjamin Graham
 
