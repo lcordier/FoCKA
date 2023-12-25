@@ -223,7 +223,7 @@ Professor at Oxford University, where he is the founding Director of the Future 
 
 > Elon Musk has warned that **artificial intelligence is ''one of the biggest threats'' to humanity**. This is because humans face the threat of being outsmarted by machines for the first time.
 
-https://www.mostrecommendedbooks.com/elon-musk-books
+[https://www.mostrecommendedbooks.com/elon-musk-books](https://www.mostrecommendedbooks.com/elon-musk-books)
 
 Elon, this one could be right up your alley. Gift it to South Africa...
 
@@ -232,7 +232,8 @@ Elon, this one could be right up your alley. Gift it to South Africa...
 Greta Thunberg
 
 > However, most of this pollution comes from just a few countries: China, for example, generates around 30% of all global emissions, while the United States is responsible for almost 14%.
-> https://climatetrade.com/which-countries-are-the-worlds-biggest-carbon-polluters/
+
+[https://climatetrade.com/which-countries-are-the-worlds-biggest-carbon-polluters/](https://climatetrade.com/which-countries-are-the-worlds-biggest-carbon-polluters/)
 
 I guess China and America could offset a few carbon credits by freeing Greta's book.
 
