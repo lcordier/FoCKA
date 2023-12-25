@@ -23,9 +23,9 @@ Countries that read more have higher GDP values. It should then be obvious that 
 Global GDP is not a zero-sum game, is it?
 
 ![Reading and GDP](./media/reading-and-gdp-1.0a.png)
-https://lectupedia.com/en/reading-and-gdp
+[https://lectupedia.com/en/reading-and-gdp](https://lectupedia.com/en/reading-and-gdp)
 
-
+<br/>
 ## Quality over Quantity
 
 ![Books read by country](./media/books_read_by_country.png)
