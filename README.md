@@ -36,7 +36,7 @@ We don't need to free that many books each year, 5 to 10 high quality books shou
 
 Think of it this way: All the time you spend reading something bad comes at the expense of reading something good. **Reading a great book twice is better than reading ten average ones.**
 
-[https://fs.blog/reading/](https://fs.blog/reading/)
+[https://fs.blog/reading/](https://fs.blog/reading/)  
 [https://fs.blog/choose-your-next-book/](https://fs.blog/choose-your-next-book/)
 
 > In my whole life, I have known no wise people (over a broad subject matter area) who didn’t read all the time – none, zero.
@@ -124,6 +124,7 @@ This could even become the [Ice Bucket Challenge](https://en.wikipedia.org/wiki/
 * [Billionaires](https://www.mostrecommendedbooks.com/people)   (choose Categories -> Billionaire) 
 * [South African Billionaires](https://dailyinvestor.com/business/12972/richest-south-africans-in-2023/)
 
+<br/>
 ![Oprah... Everybody gets a book](./media/oprah_everybody_gets_a_book.jpg)
 
 ## Cost to Buy Out Publishing Rights
@@ -137,7 +138,7 @@ Authors/publishers of great books put in a huge effort to produce high quality w
 
 What if you have a book with a billion+ readers? Isn't that bragging rights and validation for future endeavours?
 
-![](https://www.youtube.com/watch?v=m-6mJtOWQt8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m-6mJtOWQt8?si=llrMo7rKZK5UCvOh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Even thou a book might be in the public domain the author/publisher could still continue to sell it.
 
@@ -212,14 +213,14 @@ In 2001, Mo Gawdat, a remarkable thinker whose gifts had landed him top position
 
 Ten years later, that research saved him from despair when his college-aged son, Ali – also intellectually gifted – died during routine surgery. In dealing with the loss, Mo found his mission: he would pull off the type of ‘moonshot’ that he and his Google `[X]` colleagues were always aiming for: he would help ten million people become happier by pouring his happiness principles into a book and spreading its message around the world.
 
-![](https://youtu.be/csA9YhzYvmk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/csA9YhzYvmk?si=P1BjUK6IgD9Tuvmr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Google engineers unite! Don't be evil. Help Mo free his book and reach a billion people.
 On second thought, I think [John Oliver](https://www.youtube.com/@LastWeekTonight) is the man to set this one free...  You can do it!
 
 <br/><br/>
 <img src="./media/cover_superintelligence.jpg" width="150"/>  
-Nick Bostrom
+Nick Bostrom  
 Professor at Oxford University, where he is the founding Director of the Future of Humanity Institute. 
 
 > Elon Musk has warned that **artificial intelligence is ''one of the biggest threats'' to humanity**. This is because humans face the threat of being outsmarted by machines for the first time.
@@ -271,5 +272,5 @@ That is also debatable, since given [Sturgeon's law](https://en.wikipedia.org/wi
 
 Will greater public awareness not lead to greater public outcry for urgent action and thus lead us to sub-optimal solutions (local maxima)? Haste is the root of all evil.
 
+<br/>
 ![If we should](./media/if_you_should.jpg)
-
