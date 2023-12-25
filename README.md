@@ -58,7 +58,7 @@ Kids should expand their imagination, and thus consume copious amounts of scienc
 
 ![Time use by country](./media/time_use_by_country.webp)
 
-[https://ourworldindata.org/time-use-living-conditions](https://ourworldindata.org/time-use-living-conditions)
+[https://ourworldindata.org/time-use-living-conditions](https://ourworldindata.org/time-use-living-conditions)  
 [https://howlongtoread.com/](https://howlongtoread.com/)  
 
 Reading and listening would come out of education and other leisure time. The average person has probably 15 minutes to an hour available per day for reading.
