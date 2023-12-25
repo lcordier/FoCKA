@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Freedom of Critical Knowledge Act (FoCKA)
-=======
-Freedom of Critical Knowledge Act
->>>>>>> 46702c9818ab0db04ee974cdada1e3a4219f6d73
 
 > In the words of Charlie Munger, “take a simple idea and take it seriously.”
 
