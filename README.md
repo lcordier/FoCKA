@@ -8,7 +8,7 @@ Yes, I am doing prompt-engineering on you here... ;)
 What if some books, deemed to be valuable to the future of humanity, were expropriated with fair/handsome compensation to the authors/publishers/copyright holders and made freely available under the [Creative Commons Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/) or [MIT License](https://en.wikipedia.org/wiki/MIT_License) for all of humanity.
 
 Nearly 50% of the people in the world are living below the [$6.85 per day poverty line](https://devinit.org/resources/poverty-trends-global-regional-and-national/#6a9b307a).
-How will they ever get access to great books? What if in one of those minds were the solution to one of Earth's many critical problems? All that needed was some kindling from a great book. Think: Srinivasa Ramanujan.
+How will they ever get access to great books? What if in one of those minds were the solution to one of Earth's many critical problems? All that needed was some kindling from a great book. Think: [Srinivasa Ramanujan](https://www.britannica.com/story/interesting-facts-about-srinivasa-ramanujan).
 
 There are currently [6.5 billion](https://explodingtopics.com/blog/smartphone-stats) smartphones in use globally. If we put great books in the public domain, anybody could legally download and redistribute them. Students/hobbyists could do translations to other languages. University presses could even print cheap copies.
 If we take away cost considerations, it will lower the barrier to entry into peoples minds.
