@@ -74,7 +74,7 @@ Learn from the Europeans, work/toil less and leisure more...
 
 ![Reading habits](./media/world_reading_habits_2021.png)
 
-[https://geediting.com/world-reading-habits-in-2021-infographic/](https://geediting.com/world-reading-habits-in-2021-infographic/)
+[https://geediting.com/world-reading-habits-in-2021-infographic/](https://geediting.com/world-reading-habits-in-2021-infographic/)  
 [https://www.statista.com/search/?q=reading](https://www.statista.com/search/?q=reading)
 
 ## Government Funding
