@@ -274,3 +274,26 @@ Will greater public awareness not lead to greater public outcry for urgent actio
 
 <br/>
 ![If we should](./media/if_you_should.jpg)
+
+
+<a class="twitter-share-button"
+  href="https://twitter.com/intent/tweet?text=Freedom%20of%20Critical%20Knowledge%20Act%20%28FoCKA%29"
+  data-size="large">
+Tweet</a>
+
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));</script>
