@@ -1,4 +1,5 @@
 # Freedom of Critical Knowledge Act (FoCKA)
+*Louis Cordier - Copyright (c) 2023 - [MIT License](https://github.com/lcordier/focka/blob/main/LICENSE)*
 
 > In the words of Charlie Munger, “take a simple idea and take it seriously.”
 
