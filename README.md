@@ -283,6 +283,11 @@ Will greater public awareness not lead to greater public outcry for urgent actio
   data-size="large">
 Tweet</a>
 
+
+<br><br>
+<img src="https://louiscordier.com/fin.jpg?blog=focka" style="width: 256px; display: block; margin: 0 auto;">
+<br><br>
+
 <script>window.twttr = (function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0],
     t = window.twttr || {};
